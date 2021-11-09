@@ -1,0 +1,22 @@
+.header{
+  margin: 0 auto;
+  width: 99%;
+  height: 95px;
+  border: 1px solid #ccc;
+  background-color: gray;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.logo{
+  float: right;
+  margin-top: 3px;
+  margin-left: 3px;
+  font-size: 30px;
+  color: aquamarine;
+}
+
+.menu{
+  float: right;
+
+}
